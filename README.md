@@ -20,7 +20,7 @@
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<a href="https://www.linkedin.com/in/ankitojha07">
+<a href="https://www.linkedin.com/in/deepak9dahal/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:deepak9dahal@gmail.com">
@@ -70,17 +70,17 @@
 <br>
 <p align="center">
 
-  <a href="https://github.com/ankitojha07">
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
+  <!-- <a href="https://github.com/DahalDeepak">
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DahalDeepak&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>   -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DahalDeepak&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DahalDeepak&layout=compact&langs_count=6"/>
 </p>
 
-## Contribution Graph 📊
+<!-- ## Contribution Graph 📊 -->
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=chartreuse-dark"
-     />
+<!-- <img
+     src="https://activity-graph.herokuapp.com/graph?username=DahalDeepak&theme=chartreuse-dark"
+     /> -->
 
 ---
 
@@ -90,4 +90,4 @@
 
 </div>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)   -->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/DahalDeepak)   -->
