@@ -4,13 +4,13 @@
 
 😄 Pronouns: He/Him <br/>
 
-🎓 I have done my bachlore in computer science and information technology <br />
+🎓 I have done my bachlore in computer science and information technology. <br />
 
-✨ I’m interested in backend development, Api development, MERN stack, AI and Blockchain <br/>
+✨ I’m interested in backend development, Api development, MERN stack, AI and Blockchain. <br/>
 
 💬 I would love to talk about internship opportunities starting jan of 2023. </br>
 
-💡 I am currently working on backend using node(express) and mongodb(mongoose) <br/>
+💡 I am currently working on backend using node(express) and mongodb(mongoose). <br/>
 
 💞️ I’m looking to collaborate on any open source platform. <br />
 
