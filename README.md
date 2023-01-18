@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate web developer  from Nepal</h3>
 
-😄 Pronouns: He/Him <br/>
 
 🎓 I have done my bachlore in computer science and information technology. <br />
 
