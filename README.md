@@ -7,7 +7,7 @@
 
 ✨ I’m interested in backend development, Api development, MERN stack, AI and Blockchain. <br/>
 
-💬 I would love to talk about internship opportunities starting jan of 2023. </br>
+💬 I would love to talk about internship opportunities starting feb of 2023. </br>
 
 💡 I am currently working on backend using node(express) and mongodb(mongoose). <br/>
 
