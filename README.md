@@ -74,14 +74,12 @@
   <!-- <a href="https://github.com/DahalDeepak">
 <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=DahalDeepak&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>   -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DahalDeepak&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DahalDeepak&layout=compact&langs_count=6"/>
-</p>
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DahalDeepak&layout=compact&langs_count=6"/>
+</p> -->
 
 <!-- ## Contribution Graph 📊 -->
 
-<!-- <img
-     src="https://activity-graph.herokuapp.com/graph?username=DahalDeepak&theme=chartreuse-dark"
-     /> -->
+
 
 ---
 
