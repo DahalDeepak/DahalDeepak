@@ -1,4 +1,4 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/deepak9dahal/"> DEEPAK DAHAL  </a></h1>
+<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/deepak9dahal/"> DEEPAK DAHAL  </a></h1></br>
 ![](https://komarev.com/ghpvc/?username=dahaldeepak)
 
 <h3 align="center">A passionate web developer  from Nepal</h3>
