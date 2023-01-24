@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/deepak9dahal/"> DEEPAK DAHAL  </a></h1>
-<p>![](https://komarev.com/ghpvc/?username=dahaldeepak)</p>
+<p>(https://komarev.com/ghpvc/?username=dahaldeepak)</p>
 
 <h3 align="center">A passionate web developer  from Nepal</h3>
 
