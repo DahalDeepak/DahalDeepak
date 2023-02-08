@@ -46,6 +46,7 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
@@ -53,16 +54,23 @@
 <img alt="material ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" />
-
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
+
+
 
   </p>
 <br>
 <hr/>
-
+<h2> Basic knowledge </h2>
+<p align="center">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><p>
+<br>
+<hr/>
 <!-- ## Stats 📈
 <details>
 </details>
