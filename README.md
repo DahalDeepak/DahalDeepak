@@ -1,20 +1,22 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/deepak9dahal/"> DEEPAK DAHAL  </a></h1>
 <img src="https://komarev.com/ghpvc/?username=dahaldeepak" alt="view"/>
 
-<h3 align="center">A passionate web developer  from Nepal</h3>
+<h3 align="center">Passionate Web Developer  from Nepal</h3>
 
 
 🎓 I have done my bachlore in computer science and information technology. <br />
 
 ✨ I’m interested in backend development, Api development, MERN stack, AI and Blockchain. <br/>
 
-💬 I would love to talk about internship opportunities starting feb of 2023. </br>
+<!-- 💬 I would love to talk about any work opportunities starting 2023. </br> -->
 
-💡 I am currently working on backend using node(express) and mongodb(mongoose). <br/>
+💡 I am currently working on backend using node(express) and mongodb(mongoose).  I have experience in working with MERN stack. I am open to learning new skills and technologies that can help me grow as a developer.
 
-💞️ I’m looking to collaborate on any open source platform. <br />
+<br/>
 
-📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+💞️ In addition to work opportunities, I am also interested in collaborating on open source projects. I believe that working on such projects can help me gain new perspectives, improve my problem-solving skills, and contribute to meaningful projects. <br />
+
+📚 As a recent graduate, I am committed to lifelong learning and self-improvement. I am eager to learn from experienced professionals and contribute my ideas and skills to impactful projects that make a difference.
 
 <br/>
 <h2>
