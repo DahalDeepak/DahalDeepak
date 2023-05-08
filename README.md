@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
 
-<a href="https://www.facebook.com/deepak.dahal41">
+<a href="https://www.facebook.com/profile.php?id=100074509306663">
   <img src="https://img.shields.io/badge/facebook-EC7063?style=for-the-badge&logo=facebook&logoColor=white"   />
 </a>
 <a href="https://t.me/deepak9dahal">
