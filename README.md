@@ -100,5 +100,12 @@
 ### Show some ❤️ by staring some of the repositories!
 
 </div>
+<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div class='academy-badge'>
+<a href='https://app-na2.hubspot.com/academy/achievements/cls9377l/en/1/deepak-dahal/digital-marketing' title='Digital Marketing '>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/30769556bf894e9c88ca7d2b6a8252a7.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Marketing  Badge -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/DahalDeepak)   -->
