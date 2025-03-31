@@ -59,13 +59,6 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
 
-<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
-<div class='academy-badge'>
-<a href='https://app-na2.hubspot.com/academy/achievements/cls9377l/en/1/deepak-dahal/digital-marketing' title='Digital Marketing '>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/30769556bf894e9c88ca7d2b6a8252a7.png' />
-</a>
-</div>
-<!-- End: HubSpot Academy - Digital Marketing  Badge -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/DahalDeepak)   -->
 
